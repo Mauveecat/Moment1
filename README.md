@@ -11,4 +11,4 @@ Syftet med denna uppgift är att lära sig versionshantering och använda sig av
 4. Man kan klona ner och jobba med filer offline
 
 ## Slutsats
-> Det är ju jättesmidigt!
+> Det är ju jättesmidigt!!
